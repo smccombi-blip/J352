@@ -1,0 +1,33 @@
+body {
+  background-color:#b22626;
+  font-family: "roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+
+}
+p {color: ##FFFFFF}
+
+/*THIS IS A CSS COMMENT - IT DOES NOTHING 
+BUT SIT HERE*/
+
+h1 {color: #ffffff; background-color: #000000; 
+  padding: 50px; text-align: center; margin: 
+  50px 0 50px 0;}
+
+a {color: #dd8b26; text-decoration: none;
+}
+a:visited {color: #dd8b26; text-decoration: none}
+a:hover {color: #000000;}
+
+
+
+.videoPageColor {background-color: #F4F4F4}
+
+.videoHeadline {color: #dd8b26}
+
+
+
+/* THIS IS MY RELATED INFO BOX STYLE */
+
+.relatedInfo {border: solid 1px #333333 padding: 0px; 
+  background-color: #4f4537; width: 50%; border-radius: 0px}
